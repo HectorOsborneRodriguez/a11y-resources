@@ -55,9 +55,6 @@
 
 - [Dragon Speech Recognition Software](https://www.nuance.com/dragon.html)
 
-### Contrast/colour
-- [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph)
-
 ## Tools
 
 ### Checkers
