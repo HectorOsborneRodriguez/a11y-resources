@@ -2,6 +2,8 @@
 
 > A curated list of accessibility resources by [@HectorOsborneRodriguez](https://www.linkedin.com/in/hectorosbornerodriguez/)
 
+Current Version 0.1
+
 ## Table of contents
 
 - [Accessibility resources](#accessibility-resources)
@@ -103,3 +105,10 @@
 - [Check the Accessibility of a PDF Document](http://checkers.eiii.eu/en/pdfcheck/)
 - [PDF Accessibility Checker (PAC 3)](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
 
+
+
+
+## Roadmap
+- Include license requirement
+- Include recommended tools
+- Include tools per role
