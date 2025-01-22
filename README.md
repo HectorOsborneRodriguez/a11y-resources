@@ -15,13 +15,13 @@
     - [Reading solution](#reading-solution)
     - [Contrast/colour](#contrastcolour)
   - [Tools](#tools)
-    - [Checkers](#checkers)
-    - [Test automation](#test-automation)
+    - [Semi automated testing](#semi-automated-testing)
+    - [Automated testing](#automated-testing)
     - [Linters](#linters)
     - [Colour contrast](#colour-contrast)
-  - [PDF validation](#pdf-validation)
   - [Checklists](#checklists)
-
+  - [PDF validation](#pdf-validation)
+  
  
 ## General information
 
@@ -57,14 +57,16 @@
 
 ## Tools
 
-### Checkers
+### Semi Automated testing
 - [aXe](https://www.deque.com/products/axe/) - free, open-source accessibility testing tool that runs in your web browser
 - [Accessibility Insights](https://accessibilityinsights.io/) - Solve accessibility issues before they reach your customers
 - [Axe DevTools - Web Accessibility Testing - Chrome Plugin](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en) - Accessibility Checker for Developers, Testers, and Designers in Chrome
 
-### Test automation
+### Automated testing
 
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+- [Site Improve](https://www.siteimprove.com/)
+- [Silktide](https://silktide.com/)
 - [Pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 
 
