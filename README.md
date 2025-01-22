@@ -13,12 +13,13 @@
     - [Magnifiers](#magnifiers)
     - [Speech recognition](#speech-recognition)
     - [Reading solution](#reading-solution)
-    - [Contrast/colour](#contrastcolour)
   - [Tools](#tools)
     - [Semi automated testing](#semi-automated-testing)
     - [Automated testing](#automated-testing)
     - [Linters](#linters)
-    - [Colour contrast](#colour-contrast)
+  - [Colour](#colour)
+    - [Colour contrast checker](#colour-contrast-checker)
+    - [Colour palette builder](#colour-palette-builder)
   - [Checklists](#checklists)
   - [PDF validation](#pdf-validation)
   
@@ -72,6 +73,8 @@
 
 ### Linters
 - [Axe](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter) - Check code files for common accessibility defects. Checks React (JSX), React Native, Angular, Vue, HTML, and Markdown.
+
+## Colour
 
 ### Colour contrast checker
 - [Who Can Use](https://whocanuse.com/) - A tool that brings attention and understanding to how color contrast can affect different people with visual impairments
