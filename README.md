@@ -83,6 +83,7 @@ Current Version 0.1
 - [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/) - Check color contrast between to colours
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester
 - [Are My Colours Accessible?](http://www.aremycoloursaccessible.com) - Simple contrast checker for normal, bold and large text against AA and AAA
+- [Colour Contrast](https://www.figma.com/community/plugin/937465522075454889) [FIGMA PLUGIN] - Check contrast according to WCAG guidelines and apply changes directly to your artwork.
   
 ### Colour palette builder
 
