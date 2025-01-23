@@ -89,7 +89,7 @@ Current Version 0.1
 ### Colour palette builder
 
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) **[FREE]**
-- [Color Safe](http://colors afe.co/) **[FREE]** - Accessible web color combinations
+- [Color Safe](http://colorsafe.co/) **[FREE]** - Accessible web color combinations
 - [Acccessible colours](http://accessible-colors.com/) **[FREE]** - WCAG 2.0 AA and AAA color contrast checker
 - [random a11y](https://www.randoma11y.com/) **[FREE]** - Project to try and curate beautiful color palettes that are a11y friendly
 
